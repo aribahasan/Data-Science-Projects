@@ -1,5 +1,3 @@
-# Data-Science-Projects
-
 # 🧠 Data Science Portfolio
 
 Welcome to my curated collection of data science projects, each designed to showcase practical impact across data analysis, machine learning, and strategic thinking. 
