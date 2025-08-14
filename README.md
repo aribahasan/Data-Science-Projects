@@ -20,7 +20,13 @@ Welcome to my curated collection of data science projects, each designed to show
 - Unsupervised clustering using K-Means and PCA
 - Real-world dataset with demographic segmentation, heatmaps, and business interpretation
 
+### 5. Campaign Performance
+- Email campaign Lift measurement
+- Similated data with user id, received email flag, and revenue
+
 ## 💡 Skills Highlighted
-- Advanced `Python`, `pandas`, `scikit-learn`, and `matplotlib` expertise
+- Advanced `Python`, `pandas`, `scikit-learn`, and `matplotlib` 
 - Modular pipeline construction and reusable analytics design
+- Machine Learning models
+- Campaign Performance Measurement
 - Business-focused storytelling from exploratory analysis to strategic insights
